@@ -1,2 +1,2 @@
 # Tolu OmotundePortfolio
-* www.omotundetolu.com
+* www.omotundetolu.me
