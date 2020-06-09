@@ -1,2 +1,2 @@
 # Tolu OmotundePortfolio
-* www.omotundetolu.me
+* https://teomotun.github.io/
